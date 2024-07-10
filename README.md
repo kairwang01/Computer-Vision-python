@@ -9,6 +9,9 @@ Features
 - Configurable logging of detection events
 - Time-stamping of video feeds
 
+![sample](https://github.com/kairwang01/Computer-Vision-python/assets/38762041/a32322ab-3f6a-438b-a73c-a34a52d58244)
+  
+
 Requirements
 
 - Python 3.x
