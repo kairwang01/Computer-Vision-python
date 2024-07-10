@@ -22,13 +22,13 @@ This project demonstrates a real-time object detection system using TensorFlow's
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/object-detection.git
+   git clone https://github.com/kairwang01/Computer-Vision-python.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd object-detection
+   cd name of the directory
    ```
 
 3. **Install the required packages**:
